@@ -252,7 +252,7 @@ GEM
       railties (>= 3.1)
     msgpack (1.4.2)
     nio4r (2.5.8)
-    nokogiri (1.12.2-x86_64-linux)
+    nokogiri (1.12.3-x86_64-linux)
       racc (~> 1.4)
     octicons (15.0.0)
     octicons_helper (15.0.0)
@@ -345,7 +345,7 @@ GEM
       rubocop-ast (>= 1.8.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
-    rubocop-ast (1.9.0)
+    rubocop-ast (1.9.1)
       parser (>= 3.0.1.1)
     rubocop-rails (2.5.2)
       activesupport
